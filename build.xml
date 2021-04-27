@@ -3,4 +3,7 @@
 	<target name="info">
 	<echo> Hello Workd- Welcome to Apache Ant!</echo>
 	</target>
+	<target name="hello">
+		<echo> Hello From Second Pipeline stage</echo>
+		</target>
 </project>
