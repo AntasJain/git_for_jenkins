@@ -4,7 +4,7 @@ class samplefile{
 public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
-  String str=sc.nextLine();
-  System.out.println("Hello "+str);
+ 
+  System.out.println("Hello "+args[0]);
 }
 }
